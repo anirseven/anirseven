@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirban</h1>
 <h3 align="center">A passionate Software Development Engineer in Test</h3>
 
-- 🔭 I’m currently working on **Cypress , Selenium**
+- 🔭 I’m currently working on **Playwright , Cypress , Selenium**
 
 - 🌱 I’m currently learning **ReactJS , VueJS and AWS**
 
