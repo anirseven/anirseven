@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anirban</h1>
 <h3 align="center">A passionate Software Development Engineer in Test</h3>
 
-- 🔭 I’m currently working on **Playwright , Cypress , Selenium**
+- 🔭 I’m currently working on **Playwright , React JS , Cypress**
 
-- 🌱 I’m currently learning **ReactJS , VueJS and AWS**
+- 🌱 I’m currently learning **Gen AI , MCP Servers and AWS**
 
 - 📝 I regularly write articles on [https://hashnode.com/@anirbanmajumdar](https://hashnode.com/@anirbanmajumdar)
 
